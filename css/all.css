@@ -15,6 +15,17 @@
   text-rendering: auto;
   line-height: 1; }
 
+
+.intro_video_bg > .container > .row > .col-lg-12 >.intro_video_iner.text-center > .btn{
+  height: 50px;
+  width: 150px;
+  color: white;
+  font-size: 25px;
+  font-weight: 400;
+  background-color: tomato;
+
+}
+
 .fa-lg {
   font-size: 1.33333em;
   line-height: 0.75em;
